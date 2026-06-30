@@ -34,6 +34,7 @@ export default function ProjectModal({ project, onClose }) {
           animate={{ opacity: 1, scale: 1, y: 0 }}
           exit={{ opacity: 0, scale: 0.95, y: 10 }}
           transition={{ duration: 0.4, ease: [0.16, 1, 0.3, 1] }}
+          data-lenis-prevent
           className={`relative z-10 w-full max-w-2xl max-h-[85vh] overflow-y-auto rounded-3xl border ${accentBorder[project.accent]} bg-midnight-panel shadow-[0_30px_100px_rgba(0,0,0,0.6)]`}
         >
           {project.screenshot && (
