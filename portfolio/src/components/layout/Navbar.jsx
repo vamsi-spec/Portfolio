@@ -5,13 +5,13 @@ import useActiveSection from "../../hooks/useActiveSection";
 import useLenisScroll from "../../hooks/useLenisScroll";
 
 const NAV_ITEMS = [
-  { id: "hero", label: "Origin" },
-  { id: "about", label: "The Library" },
-  { id: "skills", label: "The Forest" },
-  { id: "projects", label: "The Kingdom" },
-  { id: "journey", label: "The Road" },
-  { id: "experience", label: "The Hall" },
-  { id: "contact", label: "The Shore" },
+  { id: "hero", label: "Home" },
+  { id: "about", label: "About" },
+  { id: "skills", label: "Skills" },
+  { id: "projects", label: "Projects" },
+  { id: "journey", label: "Journey" },
+  { id: "experience", label: "Experience" },
+  { id: "contact", label: "Contact" },
 ];
 
 export default function Navbar() {

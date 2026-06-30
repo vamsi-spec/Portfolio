@@ -32,8 +32,8 @@ export default function SkillsForest() {
 
       <div className="relative z-10 max-w-6xl mx-auto px-6 md:px-10">
         <SectionHeading
-          eyebrow="Scene III — The Skills Forest"
-          title="A Grove for Every Craft"
+          eyebrow="Skills"
+          title="Skills & Technologies"
           description="Each light is a skill. Hover or tap one to see how it's been put to use."
           accent="teal"
         />

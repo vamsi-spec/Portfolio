@@ -21,7 +21,7 @@ export default function ExperienceHall() {
 
       <div className="relative z-10 max-w-5xl mx-auto px-6 md:px-10">
         <SectionHeading
-          eyebrow="Scene VI — The Hall of Achievements"
+          eyebrow="Experience"
           title="Experience & Recognition"
         />
 

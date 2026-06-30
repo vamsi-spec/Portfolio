@@ -78,9 +78,9 @@ export default function JourneyTimeline() {
 
       <div className="relative z-10 max-w-5xl mx-auto px-6 md:px-10">
         <SectionHeading
-          eyebrow="Scene V — The Road"
-          title="The Journey So Far"
-          description="A winding road of milestones, walked one commit at a time."
+          eyebrow="Journey"
+          title="My Journey"
+          description="A timeline of milestones, one commit at a time."
         />
 
         {/* Desktop: road with traveling marker */}

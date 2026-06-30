@@ -13,7 +13,7 @@ export default function AboutScene() {
 
       <div className="relative z-10 max-w-5xl mx-auto px-6 md:px-10 w-full">
         <SectionHeading
-          eyebrow="Scene II — The Library"
+          eyebrow="About Me"
           title="About Me"
           description="A few pages from the story so far."
         />

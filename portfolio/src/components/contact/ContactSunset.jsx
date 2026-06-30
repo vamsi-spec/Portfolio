@@ -34,7 +34,7 @@ export default function ContactSunset() {
           viewport={viewportOnce}
           className="font-eyebrow text-xs text-gold tracking-[0.25em] mb-5"
         >
-          Scene VII — The Shore
+          Contact
         </motion.span>
 
         <motion.h2

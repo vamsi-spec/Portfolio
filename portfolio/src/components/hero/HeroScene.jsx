@@ -95,7 +95,7 @@ export default function HeroScene() {
           className="mt-10 flex flex-wrap gap-4"
         >
           <Button variant="solid" onClick={() => scrollTo("#projects")} as="button">
-            Explore the Kingdom
+            View Projects
           </Button>
           <Button
             variant="outline"
@@ -120,7 +120,7 @@ export default function HeroScene() {
         className="absolute bottom-9 left-1/2 -translate-x-1/2 z-10 flex flex-col items-center gap-2 text-moonlight-dim hover:text-gold-bright transition-colors"
         aria-label="Scroll to next scene"
       >
-        <span className="font-eyebrow text-[10px] tracking-[0.3em]">Begin</span>
+        <span className="font-eyebrow text-[10px] tracking-[0.3em]">Scroll</span>
         <HiOutlineArrowDown />
       </motion.button>
     </section>

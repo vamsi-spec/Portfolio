@@ -22,9 +22,9 @@ export default function ProjectsKingdom() {
 
       <div className="relative z-10 max-w-5xl mx-auto px-6 md:px-10">
         <SectionHeading
-          eyebrow="Scene IV — The Projects Kingdom"
-          title="Four Landmarks, One Map"
-          description="Each location marks a real, shipped piece of engineering. Open one to see the architecture behind it."
+          eyebrow="Projects"
+          title="Projects"
+          description="Each project is a real, shipped piece of engineering. Click one to see the architecture behind it."
           accent="gold"
         />
 
